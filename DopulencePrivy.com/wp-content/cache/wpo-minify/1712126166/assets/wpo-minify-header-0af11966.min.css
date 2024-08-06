@@ -8511,7 +8511,8 @@ span.entry-date:before {
     }
 
     .vstateof-mind {
-        padding: 50px 0 320px 0
+        padding: 50px 0 0px 0
+        /* padding: 50px 0 320px 0 */
     }
 
     .col-lg-6.vget-left {
@@ -12027,7 +12028,8 @@ section.archive.blog-pagination ul.pagination li a {
     }
 
     .our-services {
-        padding: 15em 0 90px 0
+        /* padding: 15em 0 90px 0 */
+        padding: 0em 0 90px 0
     }
 
     .our-services .services h2,
